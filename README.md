@@ -29,9 +29,7 @@ else:
 ~~~
 
 ## Output:
-![image](https://github.com/RakshithaK11/Square-root-of-a-number/assets/139336455/d768c14b-9459-4d61-9af7-53f0177f13f2)
-
-
+![image](https://github.com/RakshithaK11/Square-root-of-a-number/assets/139336455/0d189111-f379-4506-b355-f5aded9f8e4b)
 
 ## Result:
 Thus the program to find the square root for the given number(newton's method) using function is written and verified using python programming.
